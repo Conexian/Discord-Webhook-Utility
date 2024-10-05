@@ -1,0 +1,4 @@
+pillow
+requests
+pygetwindow
+sv_ttk
